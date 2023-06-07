@@ -1,0 +1,20 @@
+D:\занятия\3 курс\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\занятия\3 курс\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\занятия\3 курс\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.pdb
+D:\занятия\3 курс\Calculate\Calculate\obj\Debug\Calculate.Calculator.resources
+D:\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+D:\Calculate\Calculate\obj\Debug\Calculate.Calculator.resources
+D:\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\Calculate\Calculate\obj\Debug\Calculate.pdb
